@@ -52,7 +52,7 @@ Enter your Notion export folder path when prompted.
 
 根据提示输入您的 Notion 导出文件夹路径。
 
-![Notion2Obsidian Demo](demo.jpg)
+![Notion2Obsidian Demo](demo.png)
 
 #### 3. Check Results (查看结果)
 
@@ -76,5 +76,6 @@ SPACE_PER_LEVEL = 4      # Spaces per indentation level / 定义多少个空格�
 ## 📄 License
 
 MIT License
+
 
 
