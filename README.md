@@ -52,6 +52,8 @@ Enter your Notion export folder path when prompted.
 
 根据提示输入您的 Notion 导出文件夹路径。
 
+![Demo](demo.jpg)
+
 #### 3. Check Results (查看结果)
 
 After the script finishes, look for the **`Obsidian_Migration_Export`** folder created in the same directory as your source folder.
@@ -74,3 +76,4 @@ SPACE_PER_LEVEL = 4      # Spaces per indentation level / 定义多少个空格�
 ## 📄 License
 
 MIT License
+
